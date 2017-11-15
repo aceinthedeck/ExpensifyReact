@@ -2,7 +2,7 @@
 
 module.exports={
 
-    entry:__dirname+'/src/react101.js',
+    entry:__dirname+'/src/redux-expensify.js',
     output:{
         path:__dirname+'/public',
         filename:'bundle.js'
